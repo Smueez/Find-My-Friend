@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447271442394",
+    "firebase_url": "https://find-my-friend-8b0ee.firebaseio.com",
+    "project_id": "find-my-friend-8b0ee",
+    "storage_bucket": "find-my-friend-8b0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447271442394:android:1855d74788bdac1a",
+        "android_client_info": {
+          "package_name": "com.example.findmyfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447271442394-bphtqu7hjqbtgeve827oe9e3409vaj5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmyfriend",
+            "certificate_hash": "88a506d80210414ce7ed8b6b1d7bfa882721851d"
+          }
+        },
+        {
+          "client_id": "447271442394-kgfa2reme0r5js28m52kpusnpmdb1ujr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt5elzfonuDnOOlQr1hyMccKRhYfMRKQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447271442394-kgfa2reme0r5js28m52kpusnpmdb1ujr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
